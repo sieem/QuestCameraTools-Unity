@@ -1,0 +1,7 @@
+The files in this folder were copied from:
+https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples
+
+These files are distributed under the MIT license.
+
+Commit hash: e9cbb50ca56313a7ce127f2e7e6a4c1c24f6142a
+

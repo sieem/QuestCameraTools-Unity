@@ -1,0 +1,17 @@
+{
+    "name": "HoloLab.QuestCameraTools.QR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7cf9097f7c9f23848b7c5f3d897c6365",
+        "GUID:f5eda1afa2a1241a59c4db6830e1c890"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
